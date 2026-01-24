@@ -1,3 +1,10 @@
+(defvar
+  tap-repress-timeout 250
+  hold-timeout 250
+  tt $tap-repress-timeout
+  ht $hold-timeout
+)
+
 (defsrc
   esc  f1   f2   f3   f4   f5   f6   f7   f8   f9   f10  f11  f12  home end del
   grv  1    2    3    4    5    6    7    8    9    0    -    =    bspc
