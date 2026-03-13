@@ -9,8 +9,8 @@
   tab  q    w    e    r    t    y    u    i    o    p    [    ]    \
   caps a    s    d    f    g    h    j    k    l    ;    '    ret
   lsft z    x    c    v    b    n    m    ,    .    /    rsft
-  lctl lmet lalt           spc            ralt  rctl pgup  up  pgdn
-                                                   left down rght
+  lctl lmet lalt           spc            ralt  rctl        up  
+                                                      left down rght
 )
 
 (include ../config-sections/autoshift-defalias.kbd)
@@ -21,6 +21,6 @@
   tab  @q   @w   @e   @r   @t   @y   @u   @i   @o   @p   @[   @]   @\
   caps @a   @s   @d   @f   @g   @h   @j   @k   @l   @;   @'    ret
   lsft @z   @x   @c   @v   @b   @n   @m   @,   @.   @/   rsft
-  lctl lmet lalt           spc            menu  rctl pgup  up  pgdn
-                                                   left down rght
+  lctl lmet lalt           spc            ralt  menu        up
+                                                      left down rght
 )
