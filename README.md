@@ -1,5 +1,5 @@
 # my-kanata-setup
-This is my [Kanata](https://github.com/matt-nichols/my-kanata-setup) config and other associated files.
+This is my [Kanata](https://github.com/jtroo/kanata) config and other associated files.
 
 ## Sections
 - autoshift-generator: This has a script that generates a Kanata config file that can setup "autoshift", i.e. automatically emitting the shift modifier key when the key is long pressed. This is based on [this discussion](https://github.com/jtroo/kanata/discussions/470 
