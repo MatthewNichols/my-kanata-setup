@@ -1,0 +1,6 @@
+(defalias 
+left (tap-hold-press-timeout $autoshift-tap-repress-timeout $autoshift-hold-timeout left left home)
+right (tap-hold-press-timeout $autoshift-tap-repress-timeout $autoshift-hold-timeout right right end)
+up (tap-hold-press-timeout $autoshift-tap-repress-timeout $autoshift-hold-timeout up up page-up)
+down (tap-hold-press-timeout $autoshift-tap-repress-timeout $autoshift-hold-timeout down down page-down)
+)
